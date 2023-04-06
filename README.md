@@ -1,4 +1,4 @@
-# Data-validation-Manohar
+# Data-validation-Employee
 # Data-validation
 ## 1. [Introduction](#Introduction)
 ## 2. [Algorithms](#Algorithms)
