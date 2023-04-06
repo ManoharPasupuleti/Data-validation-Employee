@@ -16,23 +16,23 @@
 
 # __Introduction__
 This document Explains you about the __Data Validation on Employee Details__ using structures. 
-And also briefs you about the usage of Structures within structures and Dynamic Memory Allocation and  Pointers of structure variables. 
+And the usage of Structures within structures and Dynamic Memory Allocation and  Pointers of structure variables. 
 
 # Algorithms
 ### Main-Function
-* Created structure for personal details in this we have members for __First name__, __Last name__ and __Date of Birth__.
-* Created another structure for Salary details in this we have members for __Initial salary__, __Percentage Increment__ and __Date of Joining__.
+* Created structure for Employee details in this Structure we have Structure members for __First name__, __Last name__ and __Date of Birth__.
+* Created another structure for Storing Salary details in Structure members for __Initial salary__, __Percentage Increment__ and __Date of Joining__.
 * In this Main Function we Call the functions to __Create__ and __Print__ the empolyee details.
 * In _Create_ function we create the structure varaibles to take salary and employee details from user.
-* _Create_ function calls Two more function __Get Personal details__ and __Get Salary details__ to take these details from user.
-* __Get Personal details__ function gets personal details from user. 
+* _Create_ function calls Two more function __Get Employee details__ and __Get Salary details__ to take these details from user.
+* __Get Employee details__ function gets personal details from user. 
 * __Get Salary details__ function  gets salary details from user.
-### Get-Personal-Details
-* In this function we take input from user for personal details - _Frist name_, _Last name_ and _Date of Birth_.
-* After finish taking inputs from the user, this function starts __Validate Personal details__ operation.
-### Validate-Personal-Details
-* In this section we use two more function to validate the personal details.
-* __Validate Name__ and __Validate Date__ funtions are two function used to validate personal details of a person.
+### Get-Employee-Details
+* In this function we take input from user for Employee details - _Frist name_, _Last name_ and _Date of Birth_.
+* After finish taking inputs from the user, this function starts __Validate Employee details__ operation.
+### Validate-Employee-Details
+* In this section we use two more function to validate the Employee details.
+* __Validate Name__ and __Validate Date__ funtions are two function used to validate Employee details of a person.
 #### Validate-Name
 * In this function the user given _first name_ and _last name_ are taken as inputs in this function.
 * The name is taken in the form of string.
