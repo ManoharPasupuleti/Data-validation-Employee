@@ -47,7 +47,7 @@ And the usage of Structures within structures and Dynamic Memory Allocation and 
 * After finishing the salary and percentage Validations it calls __Validate Date__ function.
 ### Validate-Date
 * In this Section Checking User Entered __Valid-Date__ or __not__.
-* In this function we take date from User as three strings in same line to read and check the every character in the date, month and year are in correct size. 
+* In this function we checking date Entered from User as three strings in same line to read and check the every character in the date, month and year are in correct size. 
 After checking date, month and year It checks individually the each and ever byte in date format are in the range of  ASCII range
 And also checks the date, month and Year format of date  in between (1 to 31), month (1 to 12) and year>999
 If all the conditions are satisified then it return -1 and produces error message and asks user to enter the date correctly again and again till the user will enter the correct date, month and Year
