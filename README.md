@@ -2,11 +2,13 @@
 # Index
 ## 1. [Introduction](#Introduction)
 ## 2. [Algorithms](#Algorithms)
-## 3. [Flow Chart](#Flow Chart)
+## 3. [Flow Chart](#Flow-Chart)
+
+
 >* [Main Function](#Main-Function)
->* [Get Personal Details](#Get-Personal-Details)
->* [Get Salary Details](#Get-Salary-Details)
->* [Validate Personal Details](#Validate-Personal-Details)
+>* [Asking Employee Details](#Reading-Employee-Details)
+>* [Asking Salary Details](#Reading-Salary-Details)
+>* [Validate Employee Details](#Validate-Personal-Details)
 >>* [Validate Name](#Validate-Name)
 >* [Validate Salary Details](#Validate-Salary-Details)
 >* [Validate Date](#Validate-Date)
@@ -14,7 +16,7 @@
 
 # __Introduction__
 This document Explains you about the __Data Validation on Employee Details__ using structures. 
-And also briefs you about the usage of Structures within structures and Pointers of structure variables. 
+And also briefs you about the usage of Structures within structures and Dynamic Memory Allocation and  Pointers of structure variables. 
 
 # Algorithms
 ### Main-Function
@@ -44,4 +46,7 @@ And also briefs you about the usage of Structures within structures and Pointers
 * In __Validate Percentage__ we create here also another character array variable to store the percentage in the string form, after finishin up taking input from user, It checks the string size is two bytes or not and after that checks each character is in AlphaNumeric ASCII Range or not, If the it is not in Specifed Ranges then it returns __-1__ , produces error message and asks user to enter the percrntage correctly.
 * After finishing the salary and percentage Validations it calls __Validate Date__ function.
 ### Validate-Date
-* In this function we take date as string and
+*
+
+# __Flow-Chart__
+
