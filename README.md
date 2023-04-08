@@ -52,5 +52,4 @@ After checking date, month and year It checks individually the each and ever byt
 And also checks the date, month and Year format of date  in between (1 to 31), month (1 to 12) and year>999
 If all the conditions are satisified then it return -1 and produces error message and asks user to enter the date correctly again and again till the user will enter the correct date, month and Year
 
-# __Flow-Chart_
 
