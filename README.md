@@ -1,8 +1,9 @@
 # Data-validation-Employee
 # Index
 ## 1. [Introduction](#Introduction)
-## 2. [Algorithms](#Algorithms)
-## 3. [Flow Chart](#Flow-Chart)
+## 2. [Flow Chart](#Flow-Chart)
+## 3. [Algorithms](#Algorithms)
+
 
 
 >* [Main Function](#Main-Function)
